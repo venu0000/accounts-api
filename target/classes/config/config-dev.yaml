@@ -1,0 +1,9 @@
+http:
+  host: "localhost"
+  port: "8099"
+  
+db:
+  host: "localhost"
+  port: "1521"
+  user: "system"
+  password: "![jRNuUCqApuW3kFwBbmAKgg==]"
